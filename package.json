@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/daytonmills/friend-finder/issues"
   },
-  "homepage": "https://github.com/daytonmills/friend-finder#readme"
+  "homepage": "https://github.com/daytonmills/friend-finder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.15.5",
+    "path": "^0.12.7"
+  }
 }
